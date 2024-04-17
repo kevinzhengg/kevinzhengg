@@ -2,7 +2,7 @@
   
 <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
   
-  - 🔭 I’m currently seeking summer 2024 internship
+  - 🔭 I’m currently seeking Fall 2024 internship
   - 🏫 I’m currently a student at University of Waterloo, Majoring in Computational Mathematics
   - ☕ Feel free to reach out!
   
